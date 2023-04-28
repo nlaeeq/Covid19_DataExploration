@@ -40,7 +40,7 @@ This project will examine the worldwide Covid data from **3rd January 2020** to 
 
 Below is the working that I have done in Microsoft SQL Server for data exploration.
 
-{% gist 3d7b1844742e7c84193dfe2b3346e713 %}
+<script src="https://gist.github.com/nlaeeq/3d7b1844742e7c84193dfe2b3346e713.js"></script>
 
 <br><br>
 
