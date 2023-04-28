@@ -43,7 +43,7 @@ Below is the working that I have done in Microsoft SQL Server for data explorati
 <style type="text/css">
   .gist {width:100% !important;}
   .gist-file
-  .gist-data {max-height: 100%;max-width: 35%;}
+  .gist-data {max-height: 500px;max-width: 100%;}
 </style>
 
 <script src="https://gist.github.com/nlaeeq/3d7b1844742e7c84193dfe2b3346e713.js"></script>
