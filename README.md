@@ -40,15 +40,11 @@ This project will examine the worldwide Covid data from **3rd January 2020** to 
 
 Below is the working that I have done in Microsoft SQL Server for data exploration.
 
-.gist {
-   max-width:350px;
-   overflow:auto;
-}
-
-.gist .blob-wrapper.data {
-   max-height:300px;
-   overflow:auto;
-}
+<style type="text/css">
+  .gist {width:100% !important;}
+  .gist-file
+  .gist-data {max-height: 35%;max-width: 100%;}
+</style>
 
 <script src="https://gist.github.com/nlaeeq/3d7b1844742e7c84193dfe2b3346e713.js"></script>
 
