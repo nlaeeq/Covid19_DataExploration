@@ -48,7 +48,7 @@ Below is the working that I have done in Microsoft SQL Server for data explorati
 
 <script src="https://gist.github.com/nlaeeq/3d7b1844742e7c84193dfe2b3346e713.js"></script>
 
-<br><br>
+<br>
 
 ### EXPLORATORY ANALYSIS:
 
@@ -66,7 +66,7 @@ There are few countries for which data is not available and therefore contain nu
 
 ### NEXT AGENDA:
 
-The next segment of this project is to **clean the dataset** for any possible inaccuracies and inconsistencies. 
+The next segment of this project is to [**clean the dataset**](https://nlaeeq.github.io/Covid19_DataCleaning/) for any possible inaccuracies and inconsistencies. 
 
 <br><br>
 
