@@ -8,7 +8,7 @@ The aim of this project is to conduct exploratory analysis on **Covid-19** data 
 
 ### DATASET OVERVIEW:
 
-For this project, I have used [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths) dataset, which has been published on Our World In Data website, completely open access under the **Creative Commons BY license**.  This dataset updates on weekly basis and includes values since 3rd January 2020.
+For this project, I have used [**Coronavirus (COVID-19) Deaths**](https://ourworldindata.org/covid-deaths) dataset, which has been published on Our World In Data website, completely open access under the [**Creative Commons BY license**](https://creativecommons.org/licenses/by/4.0/).  This dataset updates on weekly basis and includes values since 3rd January 2020.
 
 **Citation:**
 
@@ -38,7 +38,7 @@ This project will examine the worldwide Covid data from **3rd January 2020** to 
 
 ### DATA EXPLORATION:
 
-Below is the working that I have done in Microsoft SQL Server for data exploration.
+Below is the working that I have done in **SQL Server Management Studio** for data exploration.
 
 <style type="text/css">
   .gist {width:100% !important;}
